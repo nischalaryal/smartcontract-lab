@@ -2,7 +2,7 @@
 Practice programs for learning smart contract development using _Solidity_ programming language.
 
 ## How to use this repository?
-1. Clone the repository
+1. Clone or download the repository
 ```
 git clone https://github.com/nischalaryal/smartcontract-lab.git
 ```
