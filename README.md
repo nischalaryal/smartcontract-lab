@@ -9,11 +9,11 @@ git clone https://github.com/nischalaryal/smartcontract-lab.git
 
 ![alt text](https://github.com/nischalaryal/smartcontract-lab/blob/main/img/download.png?raw=true)
 
-2. Using the following url, open RemixIDE online
+2. Open RemixIDE online using the following url.
 ```
 https://remix.ethereum.org/
 ```
-3. Upload labwork.zip file to RemixIDE
+3. Upload labwork.zip file to RemixIDE. To do this, press the menu button (hamburger icon) next to the word "Workspace" and select Restore.
 
 ![alt text](https://github.com/nischalaryal/smartcontract-lab/blob/main/img/upload_zip.png?raw=true)
 
