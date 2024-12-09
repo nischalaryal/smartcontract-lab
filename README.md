@@ -1,3 +1,6 @@
+> [!Note]  
+> Answers have been added as separate remix workspace.
+
 # Smart contract lab
 Practice programs for learning smart contract development using _Solidity_ programming language.
 
